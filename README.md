@@ -9,7 +9,7 @@ Compile both the [IPUDecoder](https://github.com/samehb/IPUDecoder) and IPUDecod
 2. Open IPUDecoderGUI.
 3. Place the IPS/IPU files you want converted into the same folder from step 1. The executables and the IPS/IPU files must be in the same folder.
 4. Drag and drop the files you want to convert into the IPUDecoderGUI box. Note that the box only accepts IPS and IPU files.
-5. Click Process, then wait for the message to the bottom show. The statusbar tells you whether or not the files were converted successfully.
+5. Click Process, then wait for the message to the bottom to show. The statusbar tells you whether or not the files were converted successfully.
 6. Open the converted M2V files and see if they are showing properly. If that is not the case, check the Alternative Mode checkbox on IPUDecoderGUI then hit process again. That should fix it.
 
 If you receive an error message, that means you did not follow the steps above correctly. Read step 3, carefully. Also, note that the processing might take a while depending on file sizes. So, wait for the statusbar message to show. That is when you know, the tool has finished.
