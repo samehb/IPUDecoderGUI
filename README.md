@@ -12,7 +12,8 @@ Compile both the [IPUDecoder](https://github.com/samehb/IPUDecoder) and IPUDecod
 5. Click Process, then wait for the message to the bottom show. The statusbar tells you whether or not the files were converted successfully.
 6. Open the converted M2V files and see if they are showing properly. If that is not the case, check the Alternative Mode checkbox on IPUDecoderGUI then hit process again. That should fix it.
 
-If you receive an error message, that means you did not following the steps above correctly. Read step 3, carefully.
+If you receive an error message, that means you did not follow the steps above correctly. Read step 3, carefully. Also, note that the processing might take a while depending on file sizes. So, wait for the statusbar message to show. That is when you know, the tool has finished.
+
 ## Copyright
 The GUI utilizes the [IPUDecoder](https://github.com/samehb/IPUDecoder). The IPUDecoder belongs to Holger Kuhn (hawkear@gmx.de). Contact him if you are planning on using this for something that is not free.
 
